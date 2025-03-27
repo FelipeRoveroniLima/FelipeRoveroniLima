@@ -17,8 +17,8 @@
 ---
 
 ### 👨‍💻 About Me :
-I'm a Fullstack Developer from Brazil
-- 💻 I’m working as a System Analyst contributing to frontend and backend for, mainly, web applications.
+I'm a UX/UI Designer from Brazil
+- 💻 I’m working as a UX/UI Designer contributing to acessible and intuitive designs for mobile and web applications.
 
 - ✨ In my free time, i study Game Design and Develop Games!
 
